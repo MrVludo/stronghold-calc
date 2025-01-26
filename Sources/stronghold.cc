@@ -111,5 +111,7 @@ int main(int argc, char *argv[]) {
   cout << "\nStronghold:\n\n Overworld:\n X: " << shX
     << " Z: " << shZ << "\n\n Nether:\n X: " 
     << (int)(shX/8) << " Z: " << (int)(shZ/8) << "\n\n";
+  getchar();
+  getchar();
   return 0;
 }
