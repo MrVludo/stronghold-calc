@@ -30,4 +30,4 @@ Stronghold:
 FOR NON-WINDOWS USERS:
 Compile the c++ file "Sources/stronghold.cc" yourself
 For example being in the stronghold-calc folder:
-"g++ -o stronghold ./Sources/stronghold.cc ./Resources/stronghold.res" 
+"g++ -o stronghold ./Sources/stronghold.cc" 
