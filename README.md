@@ -10,7 +10,7 @@ First X, First Z, First angle, Second X, Second Z, Second angle.
 
 For example: 
 The values are (you get them from F3 in a game): 
-1st place: x = 186 and z = 193, the angle is -18.9
+1st place: x = 186 and z = 193, the angle is -18.9 
 2nd place: x = 403 and z = 271, the angle is -12.9
 
 The command should be:
@@ -28,6 +28,6 @@ Stronghold:
 
 ------------------------
 FOR NON-WINDOWS USERS:
-Compile the c++ file "Sources/stronghold.cc" yourself
+Compile the c++ file "Sources/stronghold.cc" yourself.
 For example being in the stronghold-calc folder:
-"g++ -o stronghold ./Sources/stronghold.cc ./Resources/stronghold.res" 
+"g++ -o stronghold ./Sources/stronghold.cc" 
